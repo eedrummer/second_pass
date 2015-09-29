@@ -1,0 +1,13 @@
+{
+  "name": "second_pass",
+  "dependencies" : {
+    "browserify": "~> 10.2.4",
+    "browserify-incremental": "^3.0.1",
+    "bootstrap": "~3.3.5",
+    "highcharts-release": "4.1.8"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10"
+  }
+}
